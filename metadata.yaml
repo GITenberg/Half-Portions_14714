@@ -1,0 +1,31 @@
+_repo: Half-Portions_14714
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: ''
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14714'
+  lccn: '20008793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+tableOfContents: The maternal feminine -- April 25th, as usual -- Old lady Mandle
+  -- You've got to be selfish -- Long distance -- Un morso doo pang -- One hundred
+  per cent -- Farmer in the dell -- The dancing girls.
+title: Half Portions
+url: http://www.gutenberg.org/ebooks/14714
